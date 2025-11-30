@@ -12,9 +12,9 @@
         </dd>
         <dd>11:30 AM - 3:00 PM
         </dd>
-        <dd>9.95 plus tax 
+        <dd> &#36;9.95 plus tax 
         </dd>
-        
+        <br/>
         <dd>Includes sandwich, snack and a drink
         </dd>
     </dl>
@@ -24,11 +24,11 @@
         <h3><b>Name</b></h3>
         <label for="user_name"></label>
         <input type="text" name="username" id="user_name" required placeholder="Enter a name" />
-            <input type="radio" name="option" id="Here" value="here" checked />
+          <br/>  
+        <input type="radio" name="option" id="Here" value="here" checked />
             <label for="rock">Here</label>
-
             <input type="radio" name="option" id="to go" value="to go" />
-            <label for="jazz">To Go</label>
+            <label for="To Go">To Go</label>
     </fieldset>
 <fieldset>
     <legend>Sandwich</legend>
@@ -62,11 +62,44 @@
 
         <input type="radio" name="Friday" id="Tuna Salad" value="Tuna Salad" />
         <label for="Tuna Salad">Tuna Salad</label><br />
-
-
-
+        <hr />
+        <input type="checkbox" name="service" id="75&#162 Gluten Free Bread " value="Gluten Free Bread">
+            <label for="Gluten Free Bread">75&#162 Gluten Free Bread</label>
+    </fieldset>
+    <fieldset>
+        <legend>Snack</legend>
+        <h3><b>Snack</b></h3>
+        <input type="radio" name="snack" id="Apple" value="Apple" checked />
+        <label for="Apple">Apple</label><br />
+        <input type="radio" name="snack" id="Banana" value="Banana" />
+        <label for="Banana">Banana</label><br />
+        <input type="radio" name="snack" id="Potato Chips" value="Potato Chips" />
+        <label for="Potato Chips">Potato Chips</label><br />
+         </fieldset>
+    <fieldset>
+        <legend>Drink</legend>
+        <h3><b>Drink</b></h3>
+        <label for="Drink"></label>
+            <select name="Drink" id="Drink" required>
+                <option value="" selected disabled hidden>Please select</option>
+                <option value="Coffe">Coffe</option>
+                <option value="Iced Coffe">Iced Coffe</option>
+                <option value="Organic Pepermint">Organic Pepermint</option>
+                <option value="Hot Sencha Green Tea">Hot Sencha Green Tea</option>
+                <option value="Iced Sencha Green Tea">Iced Sencha Green Tea</option>
+                <option value="Hot Keemun Black tea">Hot Keemun Black tea</option>
+                <option value="Iced Keemun Black tea">Iced Keemun Black tea</option>
+            </select>
+            <hr/>
+         <input type="checkbox" name="Drink" id="&#36;1.50 extra for any regular size Bunnle Tea " value="Buble Tea">
+            <label for="&#36;1.50 extra for any regular size Bunnle Tea"> $1.50 extra for any regular size Bunnle Tea</label>
+            <br/>
+         <input type="checkbox" name="Drink" id="75&#162 extra for Large Drink " value="Large Drink">
+            <label for="75&#162 extra for Large Drink ">75&#162 extra for Large Drink </label>
+        </fieldset>
+        <input type="submit" value="Place Order">
+        <input type="reset" value="Reset">
         
-</fieldset>
 </form>
 </body>
 </html>
