@@ -1,0 +1,29 @@
+#H {
+        background-color: lightblue;
+        color: blue;
+        font-size: 12px;
+    }
+    #H .symbol { font-weight: bold; font-size: 24px; }
+    #H .name { font-style: italic; font-size: 12px; }
+    #H .number { font-size: 10px; }
+    #He{
+        background-color:,
+        color:lightcoral;
+        font-size: 12px;
+    }
+    #He .symbol { font-weight: bold; font-size: 24px; }
+    #He .name { font-style: italic; font-size: 12px; }
+    #He .number { font-size: 10px; }
+#Li {
+        background-color: lightgreen;
+        color: green;
+        font-size: 12px;
+    }
+    #Li .symbol { font-weight: bold; font-size: 24px; }
+    #Li .name { font-style: italic; font-size: 12px; }
+    #Li .number { font-size: 10px; }
+#Be{
+        background-color:lightyellow;
+        color:goldenrod;
+        font-size: 12px;
+    }
