@@ -6,24 +6,652 @@
     #H .symbol { font-weight: bold; font-size: 24px; }
     #H .name { font-style: italic; font-size: 12px; }
     #H .number { font-size: 10px; }
-    #He{
-        background-color:,
-        color:lightcoral;
+#He{
+        background-color: lightpink;
+        color: darkred;
         font-size: 12px;
     }
     #He .symbol { font-weight: bold; font-size: 24px; }
     #He .name { font-style: italic; font-size: 12px; }
     #He .number { font-size: 10px; }
 #Li {
-        background-color: lightgreen;
-        color: green;
+        background-color:#B6C8D4;
+        color: #1F3A4A;
         font-size: 12px;
     }
     #Li .symbol { font-weight: bold; font-size: 24px; }
     #Li .name { font-style: italic; font-size: 12px; }
     #Li .number { font-size: 10px; }
 #Be{
-        background-color:lightyellow;
-        color:goldenrod;
+        background-color:rgb(245, 187, 197);
+        color:red;
         font-size: 12px;
     }
+    #Be .symbol { font-weight: bold; font-size: 24px; }
+    #Be .name { font-style: italic; font-size: 12px; }
+    #Be .number { font-size: 10px; }
+#B {
+        background-color:lightgoldenrodyellow;
+        color:burlywood;
+        font-size: 12px;
+    }
+    #B .symbol { font-weight: bold; font-size: 24px; }
+    #B .name { font-style: italic; font-size: 12px; }
+    #B .number { font-size: 10px; }
+#C {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #C .symbol { font-weight: bold; font-size: 24px; }
+    #C .name { font-style: italic; font-size: 12px; }
+    #C .number { font-size: 10px; }
+#N {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #N .symbol { font-weight: bold; font-size: 24px; }
+    #N .name { font-style: italic; font-size: 12px; }
+    #N .number { font-size: 10px; }
+#O {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #O .symbol { font-weight: bold; font-size: 24px; }
+    #O .name { font-style: italic; font-size: 12px; }
+    #O .number { font-size: 10px; }
+#F {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #F .symbol { font-weight: bold; font-size: 24px; }
+    #F .name { font-style: italic; font-size: 12px; }
+    #F .number { font-size: 10px; }
+#Ne{
+        background-color:lightpink;
+        color:darkred;
+        font-size: 12px;
+    }
+    #Ne .symbol { font-weight: bold; font-size: 24px; }
+    #Ne .name { font-style: italic; font-size: 12px; }
+    #Ne .number { font-size: 10px; }
+#Na {
+        background-color:#B6C8D4;
+        color: #1F3A4A;
+        font-size: 12px;
+    }
+    #Na .symbol { font-weight: bold; font-size: 24px; }
+    #Na .name { font-style: italic; font-size: 12px; }
+    #Na .number { font-size: 10px; }
+#Mg{
+        background-color:rgb(245, 187, 197);
+        color:red;
+        font-size: 12px;
+    }
+    #Mg .symbol { font-weight: bold; font-size: 24px; }
+    #Mg .name { font-style: italic; font-size: 12px; }
+    #Mg .number { font-size: 10px; }
+#Al {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Al .symbol { font-weight: bold; font-size: 24px; }
+    #Al .name { font-style: italic; font-size: 12px; }
+    #Al .number { font-size: 10px; }
+
+
+  .legend td:first-child {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
+#Si {
+        background-color:lightgoldenrodyellow;
+        color:burlywood;
+        font-size: 12px;
+    }
+    #Si .symbol { font-weight: bold; font-size: 24px; }
+    #Si .name { font-style: italic; font-size: 12px; }
+    #Si .number { font-size: 10px; }
+#P {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #P .symbol { font-weight: bold; font-size: 24px; }
+    #P .name { font-style: italic; font-size: 12px; }
+    #P .number { font-size: 10px; }
+#S {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #S .symbol { font-weight: bold; font-size: 24px; }
+    #S .name { font-style: italic; font-size: 12px; }
+    #S .number { font-size: 10px; }
+#Cl {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #Cl .symbol { font-weight: bold; font-size: 24px; }
+    #Cl .name { font-style: italic; font-size: 12px; }
+    #Cl .number { font-size: 10px; }
+#Ar{
+        background-color:lightpink;
+        color:darkred;
+        font-size: 12px;
+    }
+    #Ar .symbol { font-weight: bold; font-size: 24px; }
+    #Ar .name { font-style: italic; font-size: 12px; }
+    #Ar .number { font-size: 10px; }
+#K {
+        background-color:#B6C8D4;
+        color: #1F3A4A;
+        font-size: 12px;
+    }
+    #K .symbol { font-weight: bold; font-size: 24px; }
+    #K .name { font-style: italic; font-size: 12px; }
+    #K .number { font-size: 10px; }
+#Ca{
+        background-color:rgb(245, 187, 197);
+        color:red;
+        font-size: 12px;
+    }
+    #Ca .symbol { font-weight: bold; font-size: 24px; }
+    #Ca .name { font-style: italic; font-size: 12px; }
+    #Ca .number { font-size: 10px; }
+#Sc {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Sc .symbol { font-weight: bold; font-size: 24px; }
+    #Sc .name { font-style: italic; font-size: 12px; }
+    #Sc .number { font-size: 10px; }
+#Ti {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Ti .symbol { font-weight: bold; font-size: 24px; }
+    #Ti .name { font-style: italic; font-size: 12px; }
+    #Ti .number { font-size: 10px; }
+#V {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #V .symbol { font-weight: bold; font-size: 24px; }
+    #V .name { font-style: italic; font-size: 12px; }
+    #V .number { font-size: 10px; }
+#Cr {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Cr .symbol { font-weight: bold; font-size: 24px; }
+    #Cr .name { font-style: italic; font-size: 12px; }
+    #Cr .number { font-size: 10px; }
+#Mn {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Mn .symbol { font-weight: bold; font-size: 24px; }
+    #Mn .name { font-style: italic; font-size: 12px; }
+    #Mn .number { font-size: 10px; }
+#Fe {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Fe .symbol { font-weight: bold; font-size: 24px; }
+    #Fe .name { font-style: italic; font-size: 12px; }
+    #Fe .number { font-size: 10px; }
+#Co {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Co .symbol { font-weight: bold; font-size: 24px; }
+    #Co .name { font-style: italic; font-size: 12px; }
+    #Co .number { font-size: 10px; }
+#Ni {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Ni .symbol { font-weight: bold; font-size: 24px; }
+    #Ni .name { font-style: italic; font-size: 12px; }
+    #Ni .number { font-size: 10px; }
+#Cu {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Cu .symbol { font-weight: bold; font-size: 24px; }
+    #Cu .name { font-style: italic; font-size: 12px; }
+    #Cu .number { font-size: 10px; }
+#Zn {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Zn .symbol { font-weight: bold; font-size: 24px; }
+    #Zn .name { font-style: italic; font-size: 12px; }
+    #Zn .number { font-size: 10px; }
+#Ga {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Ga .symbol { font-weight: bold; font-size: 24px; }
+    #Ga .name { font-style: italic; font-size: 12px; }
+    #Ga .number { font-size: 10px; }
+#Ge {
+        background-color:lightgoldenrodyellow;
+        color:burlywood;
+        font-size: 12px;
+    }
+    #Ge .symbol { font-weight: bold; font-size: 24px; }
+    #Ge .name { font-style: italic; font-size: 12px; }
+    #Ge .number { font-size: 10px; }
+#As {
+        background-color:lightgoldenrodyellow;
+        color:burlywood;
+        font-size: 12px;
+    }
+    #As .symbol { font-weight: bold; font-size: 24px; }
+    #As .name { font-style: italic; font-size: 12px; }
+    #As .number { font-size: 10px; }
+#Se {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #Se .symbol { font-weight: bold; font-size: 24px; }
+    #Se .name { font-style: italic; font-size: 12px; }
+    #Se .number { font-size: 10px; }
+#Br {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #Br .symbol { font-weight: bold; font-size: 24px; }
+    #Br .name { font-style: italic; font-size: 12px; }
+    #Br .number { font-size: 10px; }
+#Kr{
+        background-color:lightpink;
+        color:darkred;
+        font-size: 12px;
+    }
+    #Kr .symbol { font-weight: bold; font-size: 24px; }
+    #Kr .name { font-style: italic; font-size: 12px; }
+    #Kr .number { font-size: 10px; }
+#Rb {
+        background-color:#B6C8D4;
+        color: #1F3A4A;
+        font-size: 12px;
+    }
+    #Rb .symbol { font-weight: bold; font-size: 24px; }
+    #Rb .name { font-style: italic; font-size: 12px; }
+    #Rb .number { font-size: 10px; }
+#Sr{
+        background-color:rgb(245, 187, 197);
+        color:red;
+        font-size: 12px;
+    }
+    #Sr .symbol { font-weight: bold; font-size: 24px; }
+    #Sr .name { font-style: italic; font-size: 12px; }
+    #Sr .number { font-size: 10px; }
+#Y {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Y .symbol { font-weight: bold; font-size: 24px; }
+    #Y .name { font-style: italic; font-size: 12px; }
+    #Y .number { font-size: 10px; }
+#Zr {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Zr .symbol { font-weight: bold; font-size: 24px; }
+    #Zr .name { font-style: italic; font-size: 12px; }
+    #Zr .number { font-size: 10px; }
+#Nb {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Nb .symbol { font-weight: bold; font-size: 24px; }
+    #Nb .name { font-style: italic; font-size: 12px; }
+    #Nb .number { font-size: 10px; }
+#Mo {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Mo .symbol { font-weight: bold; font-size: 24px; }
+    #Mo .name { font-style: italic; font-size: 12px; }
+    #Mo .number { font-size: 10px; }
+#Tc {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Tc .symbol { font-weight: bold; font-size: 24px; }
+    #Tc .name { font-style: italic; font-size: 12px; }
+    #Tc .number { font-size: 10px; }
+#Ru {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Ru .symbol { font-weight: bold; font-size: 24px; }
+    #Ru .name { font-style: italic; font-size: 12px; }
+    #Ru .number { font-size: 10px; }
+#Rh {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Rh .symbol { font-weight: bold; font-size: 24px; }
+    #Rh .name { font-style: italic; font-size: 12px; }
+    #Rh .number { font-size: 10px; }
+#Pd {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Pd .symbol { font-weight: bold; font-size: 24px; }
+    #Pd .name { font-style: italic; font-size: 12px; }
+    #Pd .number { font-size: 10px; }
+#Ag {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Ag .symbol { font-weight: bold; font-size: 24px; }
+    #Ag .name { font-style: italic; font-size: 12px; }
+    #Ag .number { font-size: 10px; }
+#Cd {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Cd .symbol { font-weight: bold; font-size: 24px; }
+    #Cd .name { font-style: italic; font-size: 12px; }
+    #Cd .number { font-size: 10px; }
+#In {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #In .symbol { font-weight: bold; font-size: 24px; }
+    #In .name { font-style: italic; font-size: 12px; }
+    #In .number { font-size: 10px; }
+#Sn {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Sn .symbol { font-weight: bold; font-size: 24px; }
+    #Sn .name { font-style: italic; font-size: 12px; }
+    #Sn .number { font-size: 10px; }
+#Sb {
+         background-color:lightgoldenrodyellow;
+        color:burlywood;
+        font-size: 12px;
+    }
+    #Sb .symbol { font-weight: bold; font-size: 24px; }
+    #Sb .name { font-style: italic; font-size: 12px; }
+    #Sb .number { font-size: 10px; }
+#Te {
+         background-color:lightgoldenrodyellow;
+        color:burlywood;
+        font-size: 12px;
+    }
+    #Te .symbol { font-weight: bold; font-size: 24px; }
+    #Te .name { font-style: italic; font-size: 12px; }
+    #Te .number { font-size: 10px; }
+#I {
+        background-color:lightblue;
+        color:blue;
+        font-size: 12px;
+    }
+    #I .symbol { font-weight: bold; font-size: 24px; }
+    #I .name { font-style: italic; font-size: 12px; }
+    #I .number { font-size: 10px; }
+#Xe{
+        background-color:lightpink;
+        color:darkred;
+        font-size: 12px;
+    }
+    #Xe .symbol { font-weight: bold; font-size: 24px; }
+    #Xe .name { font-style: italic; font-size: 12px; }
+    #Xe .number { font-size: 10px; }
+#Cs {
+        background-color:#B6C8D4;
+        color: #1F3A4A;
+        font-size: 12px;
+    }
+    #Cs .symbol { font-weight: bold; font-size: 24px; }
+    #Cs .name { font-style: italic; font-size: 12px; }
+    #Cs .number { font-size: 10px; }
+#Ba{
+        background-color:rgb(245, 187, 197);
+        color:red;
+        font-size: 12px;
+    }
+    #Ba .symbol { font-weight: bold; font-size: 24px; }
+    #Ba .name { font-style: italic; font-size: 12px; }
+    #Ba .number { font-size: 10px; }
+#La {
+        background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #La .symbol { font-weight: bold; font-size: 24px; }
+    #La .name { font-style: italic; font-size: 12px; }
+    #La .number { font-size: 10px;}
+#Hf {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Hf .symbol { font-weight: bold; font-size: 24px; }
+    #Hf .name { font-style: italic; font-size: 12px; }
+    #Hf .number { font-size: 10px; }
+#Ta {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Ta .symbol { font-weight: bold; font-size: 24px; }
+    #Ta .name { font-style: italic; font-size: 12px; }
+    #Ta .number { font-size: 10px; }
+#W {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #W .symbol { font-weight: bold; font-size: 24px; }
+    #W .name { font-style: italic; font-size: 12px; }
+    #W .number { font-size: 10px; }
+#Re {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Re .symbol { font-weight: bold; font-size: 24px; }
+    #Re .name { font-style: italic; font-size: 12px; }
+    #Re .number { font-size: 10px; }
+#Os {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Os .symbol { font-weight: bold; font-size: 24px; }
+    #Os .name { font-style: italic; font-size: 12px; }
+    #Os .number { font-size: 10px; }
+#Ir {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Ir .symbol { font-weight: bold; font-size: 24px; }
+    #Ir .name { font-style: italic; font-size: 12px; }
+    #Ir .number { font-size: 10px; }
+#Pt {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Pt .symbol { font-weight: bold; font-size: 24px; }
+    #Pt .name { font-style: italic; font-size: 12px; }
+    #Pt .number { font-size: 10px; }
+#Au {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Au .symbol { font-weight: bold; font-size: 24px; }
+    #Au .name { font-style: italic; font-size: 12px; }
+    #Au .number { font-size: 10px; }
+#Hg {
+        background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Hg .symbol { font-weight: bold; font-size: 24px; }
+    #Hg .name { font-style: italic; font-size: 12px; }
+    #Hg .number { font-size: 10px; }
+#Tl {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Tl .symbol { font-weight: bold; font-size: 24px; }
+    #Tl .name { font-style: italic; font-size: 12px; }
+    #Tl .number { font-size: 10px; }
+#Pb {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Pb .symbol { font-weight: bold; font-size: 24px; }
+    #Pb .name { font-style: italic; font-size: 12px; }
+    #Pb .number { font-size: 10px; }
+#Bi {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Bi .symbol { font-weight: bold; font-size: 24px; }
+    #Bi .name { font-style: italic; font-size: 12px; }
+    #Bi .number { font-size: 10px; }
+#Po {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #Po .symbol { font-weight: bold; font-size: 24px; }
+    #Po .name { font-style: italic; font-size: 12px; }
+    #Po .number { font-size: 10px; }
+#At {
+        background-color:rgb(180, 246, 180);
+        color:black;
+        font-size: 12px;
+    }
+    #At .symbol { font-weight: bold; font-size: 24px; }
+    #At .name { font-style: italic; font-size: 12px; }
+    #At .number { font-size: 10px; }
+#Rn{
+        background-color:lightpink;
+        color:darkred;
+        font-size: 12px;
+    }
+    #Rn .symbol { font-weight: bold; font-size: 24px; }
+    #Rn .name { font-style: italic; font-size: 12px; }
+    #Rn .number { font-size: 10px; }
+#Fr {
+        background-color:#B6C8D4;
+        color: #1F3A4A;
+        font-size: 12px;
+    }
+    #Fr .symbol { font-weight: bold; font-size: 24px; }
+    #Fr .name { font-style: italic; font-size: 12px; }
+    #Fr .number { font-size: 10px; }
+#Ra{
+     background-color:rgb(245, 187, 197);
+     color:red;
+     font-size: 12px;
+    }
+    #Ra .symbol { font-weight: bold; font-size: 24px; }
+    #Ra .name { font-style: italic; font-size: 12px; }
+    #Ra .number { font-size: 10px; }
+#Ac{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+   }
+   #Ac .symbol { font-weight: bold; font-size: 24px; }
+   #Ac .name { font-style: italic; font-size: 12px; }
+   #Ac .number { font-size: 10px; }
+#Rf{
+    background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+   }
+  #Rf .symbol{font-weight: bold; font-size: 24px;}
+  #Rf .name { font-style: italic; font-size: 12px; }
+  #Rf .number { font-size: 10px; }
+   
+
+
+#alkali {
+    background-color: #ffeb3b; /* yellow */
+}
+
+#alkaline {
+    background-color: #ffd54f; /* light orange */
+}
+
+#transition {
+    background-color: #90caf9; /* light blue */
+}
+
+#posttransition {
+    background-color: #81d4fa; /* sky blue */
+}
+
+#metalloids {
+    background-color: #ffccbc; /* peach */
+}
+
+#nonmetals {
+    background-color: #c5e1a5; /* light green */
+}
+
+#halogens {
+    background-color: #f48fb1; /* pink */
+}
+
+#noble {
+    background-color: #ce93d8; /* purple */
+}
+
+#lanthanides {
+    background-color: #b39ddb; /* violet */
+}
+
+#actinides {
+    background-color: #bcaaa4; /* brownish */
+}  
