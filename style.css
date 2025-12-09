@@ -104,11 +104,6 @@
     #Al .number { font-size: 10px; }
 
 
-  .legend td:first-child {
-    width: 40px;
-    height: 40px;
-    border: 1px solid black;
-}
 #Si {
         background-color:lightgoldenrodyellow;
         color:burlywood;
@@ -610,48 +605,393 @@
         color:purple;
         font-size: 12px;
    }
-  #Rf .symbol{font-weight: bold; font-size: 24px;}
-  #Rf .name { font-style: italic; font-size: 12px; }
-  #Rf .number { font-size: 10px; }
-   
+    #Rf .symbol{font-weight: bold; font-size: 24px;}
+    #Rf .name { font-style: italic; font-size: 12px; }
+    #Rf .number { font-size: 10px; }
+#Db{
+    background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+   }
+    #Db .symbol{font-weight: bold; font-size: 24px;}
+    #Db .name { font-style: italic; font-size: 12px; }
+    #Db .number { font-size: 10px; }
+#Sg{
+    background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+   }
+    #Sg .symbol{font-weight: bold; font-size: 24px;}
+    #Sg .name { font-style: italic; font-size: 12px; }
+    #Sg .number { font-size: 10px; }
+#Bh{
+    background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+   }
+    #Bh .symbol{font-weight: bold; font-size: 24px;}
+    #Bh .name { font-style: italic; font-size: 12px; }
+    #Bh .number { font-size: 10px; }
+#Hs{
+    background-color:rgb(240, 207, 240);
+        color:purple;
+        font-size: 12px;
+    }
+    #Hs .symbol{font-weight: bold; font-size: 24px;}
+    #Hs .name { font-style: italic; font-size: 12px; }
+    #Hs .number { font-size: 10px; }
+#Mt{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Mt .symbol{font-weight: bold; font-size: 24px;}
+    #Mt .name { font-style: italic; font-size: 12px; }
+    #Mt .number { font-size: 10px; }
+#Ds{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Ds .symbol{font-weight: bold; font-size: 24px;}
+    #Ds .name { font-style: italic; font-size: 12px; }
+    #Ds .number { font-size: 10px; }
+#Rg{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Rg .symbol{font-weight: bold; font-size: 24px;}
+    #Rg .name { font-style: italic; font-size: 12px; }
+    #Rg .number { font-size: 10px; }
+#Cn{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Cn .symbol{font-weight: bold; font-size: 24px;}
+    #Cn .name { font-style: italic; font-size: 12px; }
+    #Cn .number { font-size: 10px; }
+#Nh{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Nh .symbol{font-weight: bold; font-size: 24px;}
+    #Nh .name { font-style: italic; font-size: 12px; }
+    #Nh .number { font-size: 10px; }
+#Fl{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+    }
+    #Fl .symbol{font-weight: bold; font-size: 24px;}
+    #Fl .name { font-style: italic; font-size: 12px; }
+    #Fl .number { font-size: 10px; }
+#Mc{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+    }
+    #Mc .symbol{font-weight: bold; font-size: 24px;}
+    #Mc .name { font-style: italic; font-size: 12px; }
+    #Mc .number { font-size: 10px; }
+#Lv{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Lv .symbol{font-weight: bold; font-size: 24px;}
+    #Lv .name { font-style: italic; font-size: 12px; }
+    #Lv .number { font-size: 10px; }
+#Ts{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Ts .symbol{font-weight: bold; font-size: 24px;}
+    #Ts .name { font-style: italic; font-size: 12px; }
+    #Ts .number { font-size: 10px; }
+#Og{
+    background-color:rgb(173, 190, 208);
+        color:black;
+        font-size: 12px;
+   }
+    #Og .symbol{font-weight: bold; font-size: 24px;}
+    #Og .name { font-style: italic; font-size: 12px; }
+    #Og .number { font-size: 10px; }
+#Ce{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Ce .symbol { font-weight: bold; font-size: 24px; }
+    #Ce .name { font-style: italic; font-size: 12px; }
+    #Ce .number { font-size: 10px;}
+#Pr{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Pr .symbol { font-weight: bold; font-size: 24px; }
+    #Pr .name { font-style: italic; font-size: 12px; }
+    #Pr .number { font-size: 10px;}
+#Nd{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Nd .symbol { font-weight: bold; font-size: 24px; }
+    #Nd .name { font-style: italic; font-size: 12px; }
+    #Nd .number { font-size: 10px;}
+#Pm{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Pm .symbol { font-weight: bold; font-size: 24px; }
+    #Pm .name { font-style: italic; font-size: 12px; }
+    #Pm .number { font-size: 10px;}
+#Sm{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Sm .symbol { font-weight: bold; font-size: 24px; }
+    #Sm .name { font-style: italic; font-size: 12px; }
+    #Sm .number { font-size: 10px;}
+#Eu{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Eu .symbol { font-weight: bold; font-size: 24px; }
+    #Eu .name { font-style: italic; font-size: 12px; }
+    #Eu .number { font-size: 10px;}
+#Gd{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Gd .symbol { font-weight: bold; font-size: 24px; }
+    #Gd .name { font-style: italic; font-size: 12px; }
+    #Gd .number { font-size: 10px;}
+#Tb{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Tb .symbol { font-weight: bold; font-size: 24px; }
+    #Tb .name { font-style: italic; font-size: 12px; }
+    #Tb .number { font-size: 10px;}
+#Dy{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Dy .symbol { font-weight: bold; font-size: 24px; }
+    #Dy .name { font-style: italic; font-size: 12px; }
+    #Dy .number { font-size: 10px;}
+#Ho{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Ho .symbol { font-weight: bold; font-size: 24px; }
+    #Ho .name { font-style: italic; font-size: 12px; }
+    #Ho .number { font-size: 10px;}
+#Er{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Er .symbol { font-weight: bold; font-size: 24px; }
+    #Er .name { font-style: italic; font-size: 12px; }
+    #Er .number { font-size: 10px;}
+#Tm{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Tm .symbol { font-weight: bold; font-size: 24px; }
+    #Tm .name { font-style: italic; font-size: 12px; }
+    #Tm .number { font-size: 10px;}
+#Yb{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Yb .symbol { font-weight: bold; font-size: 24px; }
+    #Yb .name { font-style: italic; font-size: 12px; }
+    #Yb .number { font-size: 10px;}
+#Lu{
+    background-color: rgb(194, 237, 237);
+        color: black;
+        font-size: 12px;
+    }
+    #Lu .symbol { font-weight: bold; font-size: 24px; }
+    #Lu .name { font-style: italic; font-size: 12px; }
+    #Lu .number { font-size: 10px;}
+#Th{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+   }
+   #Th .symbol { font-weight: bold; font-size: 24px; }
+   #Th .name { font-style: italic; font-size: 12px; }
+   #Th .number { font-size: 10px; }
+#Pa{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+   }
+   #Pa .symbol { font-weight: bold; font-size: 24px; }
+   #Pa .name { font-style: italic; font-size: 12px; }
+   #Pa .number { font-size: 10px; }
+#U{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+   }
+    #U .symbol { font-weight: bold; font-size: 24px; }
+    #U .name { font-style: italic; font-size: 12px; }
+    #U .number { font-size: 10px; }
+#Np{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Np .symbol { font-weight: bold; font-size: 24px; }
+    #Np .name { font-style: italic; font-size: 12px; }
+    #Np .number { font-size: 10px; }
+#Pu{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Pu .symbol { font-weight: bold; font-size: 24px; }
+    #Pu .name { font-style: italic; font-size: 12px; }
+    #Pu .number { font-size: 10px; }
+#Am{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Am .symbol { font-weight: bold; font-size: 24px; }
+    #Am .name { font-style: italic; font-size: 12px; }
+    #Am .number { font-size: 10px; }
+#Cm{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Cm .symbol { font-weight: bold; font-size: 24px; }
+    #Cm .name { font-style: italic; font-size: 12px; }
+    #Cm .number { font-size: 10px; }
+#Bk{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Bk .symbol { font-weight: bold; font-size: 24px; }
+    #Bk .name { font-style: italic; font-size: 12px; }
+    #Bk .number { font-size: 10px; }
+#Cf{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Cf .symbol { font-weight: bold; font-size: 24px; }
+    #Cf .name { font-style: italic; font-size: 12px; }
+    #Cf .number { font-size: 10px; }
+#Es{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Es .symbol { font-weight: bold; font-size: 24px; }
+    #Es .name { font-style: italic; font-size: 12px; }
+    #Es .number { font-size: 10px; }
+#Fm{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Fm .symbol { font-weight: bold; font-size: 24px; }
+    #Fm .name { font-style: italic; font-size: 12px; }
+    #Fm .number { font-size: 10px; }
+#Md{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Md .symbol { font-weight: bold; font-size: 24px; }
+    #Md .name { font-style: italic; font-size: 12px; }
+    #Md .number { font-size: 10px; }
+#No{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #No .symbol { font-weight: bold; font-size: 24px; }
+    #No .name { font-style: italic; font-size: 12px; }
+    #No .number { font-size: 10px; }
+#Lr{
+    background-color: rgb(255, 223, 163);
+    color: orange;
+    font-size: 12;
+    }
+    #Lr .symbol { font-weight: bold; font-size: 24px; }
+    #Lr .name { font-style: italic; font-size: 12px; }
+    #Lr .number { font-size: 10px; }
 
+.legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  
+}
+
+  
 
 #alkali {
-    background-color: #ffeb3b; /* yellow */
-}
+        background-color:#B6C8D4;
+    
+        }
 
 #alkaline {
-    background-color: #ffd54f; /* light orange */
-}
+        background-color: rgb(245, 187, 197);
+          }
 
 #transition {
-    background-color: #90caf9; /* light blue */
+    background-color: rgb(240, 207, 240);
 }
 
 #posttransition {
-    background-color: #81d4fa; /* sky blue */
+    background-color: rgb(180, 246, 180);
 }
 
 #metalloids {
-    background-color: #ffccbc; /* peach */
+    background-color: lightgoldenrodyellow;
 }
 
 #nonmetals {
-    background-color: #c5e1a5; /* light green */
+    background-color: lightblue;
 }
 
-#halogens {
-    background-color: #f48fb1; /* pink */
+#Unknown {
+    background-color: rgb(173, 190, 208);
 }
 
 #noble {
-    background-color: #ce93d8; /* purple */
+    background-color: lightpink;
 }
 
 #lanthanides {
-    background-color: #b39ddb; /* violet */
+    background-color: rgb(194, 237, 237)
 }
 
 #actinides {
-    background-color: #bcaaa4; /* brownish */
+    background-color:rgb(255, 223, 163)
 }  
